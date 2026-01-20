@@ -6,9 +6,9 @@ Anderson Jesús Monge Alvarado, C4H334
 
 #### 1. Debe investigar y mencionar qué es una hilera de caracteres, y algunos ejemplos.
 
-> Las hileras de caracteres son objetos que se utilizan para almacenar cadenas de texto.
+> Las hileras de caracteres son un tipo de datos fundamental que se utiliza para representar texto, a diferencia de los tipos de datos numéricos, como los números enteros o los números de coma flotante. Contiene una secuencia de caracteres, que puede incluir letras, números, símbolos y espacios. En la mayoría de los lenguajes de programación, las cadenas se escriben entre comillas para diferenciarlas de otros tipos de datos, como los números o los nombres de variables.
 
-**Fuente:** https://www.slideserve.com/vega/manipulaci-n-de-caracteres-e-hileras-de-texto
+**Fuente:** https://techterms.com/definition/string 
 
 **Ejemplos:**
 
